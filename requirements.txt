@@ -4,7 +4,7 @@ python-multipart==0.0.20
 pillow==11.1.0
 numpy==2.2.0
 torch==2.5.1
-torchvision==0.20.1
+torchvision==0.21.0
 ultralytics==8.3.72
 pydantic==2.10.6
 prometheus-client==0.22.1
